@@ -47,11 +47,27 @@ H<font color="#f00">e</font>llo, World
 蔗糖
 # 程式設計
 這堂課主要用會c語言做教學，以下是主要的課程大綱
+### 前言
+這堂課會先教你在你的windows 機器上面安裝virtual box 
+在上面安裝linux 的發行版[(ubuntu)](https://releases.ubuntu.com/jammy/)做開發 
+並使用內建gcc編譯器撰寫c語言程式碼 
+- 哈囉世界
+```
+printf("hello worold");
+```
 - 變數
 ```
 printf("hello worold");
 ```
 - if else判斷式
+```
+printf("hello worold");
+```
 - for 迴圈
+```
+printf("hello worold");
+```
 - function函數
-- 
+```
+printf("hello worold");
+```
