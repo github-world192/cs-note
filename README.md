@@ -48,9 +48,9 @@ H<font color="#f00">e</font>llo, World
 # 程式設計
 這堂課主要用會c語言做教學，以下是主要的課程大綱
 ### 前言
-這堂課會先教你在你的windows 機器上面安裝virtual box 
-在上面安裝linux 的發行版[(ubuntu)](https://releases.ubuntu.com/jammy/)做開發 
-並使用內建gcc編譯器撰寫c語言程式碼 
+這堂課會先教你在你的windows 機器上面安裝virtualbox虛擬機
+，接著會在虛擬機上面安裝linux其中一個發行版[(ubuntu)](https://releases.ubuntu.com/jammy/)，
+並使用內建[gcc編譯器](/) 與[vim編輯器](/) 撰寫與編譯c語言程式碼 。
 - 哈囉世界
 ```
 printf("hello worold");
