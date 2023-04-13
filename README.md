@@ -47,4 +47,8 @@ H<font color="#f00">e</font>llo, World
 蔗糖
 # 程式設計
 這堂課主要用會c語言做教學，以下是主要的課程大綱
-
+- 變數
+- if else判斷式
+- for 迴圈
+- function函數
+- 
