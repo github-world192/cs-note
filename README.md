@@ -30,6 +30,7 @@
 第一章：
 第一章：
 第一章：
+H<font color="#f00">e</font>llo, World
 ＃程式設計
 第一章：
 第一章：
