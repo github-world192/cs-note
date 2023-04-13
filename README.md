@@ -4,5 +4,5 @@
 - [微積分筆記](#離散數學)
 - [離散數學筆記](#微積分)
 # 微積分
-- 課程用書 :  *university calculus Early Transcendentals*
+- 課程用書 :    *university calculus Early Transcendentals*
 # 離散數學
