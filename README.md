@@ -4,6 +4,8 @@
 - [微積分筆記](#微積分)
 - [離散數學筆記](#離散數學)
 - [程式設計](#程式設計)
+- [資料結構](#資料結構)
+- [演算法](#演算法)
 # 微積分
 - 課程用書:  *university calculus Early Transcendentals*
 第一章：
@@ -71,3 +73,6 @@ printf("hello worold");
 ```
 printf("hello worold");
 ```
+# 演算法
+# 資料結構
+# 資料視覺化(選修)
